@@ -43,7 +43,7 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-This project is inspired by [Guide to Creating Archetypes](https://maven.apache.org/guides/mini/guide-creating-archetypes.html)
+This project is inspired by [Guide to Creating Archetypes](https://maven.apache.org/guides/mini/guide-creating-archetypes.html) from Apache.
 
 ## Contact
 Created by [@fsutter](https://www.sutter.me/) - feel free to contact me!
