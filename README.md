@@ -1,5 +1,5 @@
 # Project Name
-> Simple maven archetype for creating a web application!
+> Simple maven archetype for creating a web application.
 
 ## Table of contents
 * [General info](#general-info)
