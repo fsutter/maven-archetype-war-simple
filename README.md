@@ -1,5 +1,5 @@
 # Project Name
-> Here goes your awesome project description!
+> Simple maven archetype for creating a web application!
 
 ## Table of contents
 * [General info](#general-info)
@@ -46,4 +46,4 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@fsuter](https://www.sutter.me/) - feel free to contact me!
+Created by [@fsutter](https://www.sutter.me/) - feel free to contact me!
