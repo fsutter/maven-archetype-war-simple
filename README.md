@@ -5,6 +5,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Usage](#usage)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -21,7 +22,7 @@ Add more general information about project. What the purpose of the project is? 
 ## Setup
 mvn install
 
-## Code Examples
+## Usage
 Show examples of usage:
 `put-your-code-here`
 
