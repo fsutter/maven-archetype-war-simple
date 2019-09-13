@@ -15,9 +15,12 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Jersey - version 2.29.1
+* Swagger Jersey2 JAXRS - version 1.5.23
+* Swagger UI - version 3.23.8
+* SnakeYAML - version 1.25
+* CORS filter - version 2.8
+* Jasypt - version 1.9.3
 
 ## Setup
 mvn install
