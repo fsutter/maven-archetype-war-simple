@@ -27,8 +27,8 @@ mvn install
 
 ## Usage
 * Create project
-** Eclipse/IntelliJ IDEA: use your favorite IDE to create a new Maven project with **ws.sutter.archetypes** as *Group Id* and **maven-archetype-war-simple** as *Artifact Id*.
-** Manually:
+ * Eclipse/IntelliJ IDEA: use your favorite IDE to create a new Maven project with **ws.sutter.archetypes** as *Group Id* and **maven-archetype-war-simple** as *Artifact Id*.
+ * Manually:
   
   ```
   mvn archetype:generate\
