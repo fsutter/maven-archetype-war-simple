@@ -26,7 +26,7 @@ Add more general information about project. What the purpose of the project is? 
 mvn install
 
 ## Usage
-- Create project
+- Create project:
   - Eclipse/IntelliJ IDEA: use your favorite IDE to create a new Maven project with **ws.sutter.archetypes** as *Group Id* and **maven-archetype-war-simple** as *Artifact Id*.
   - Manually:
   
@@ -37,6 +37,11 @@ mvn install
     -DarchetypeGroupId=ws.sutter.archetypes\
     -DarchetypeArtifactId=maven-archetype-war-simple
   ```
+- Run in jetty:
+
+```
+mvn package jetty:run-war
+```
 
 ## Features
 List of features ready and TODOs for future development
